@@ -7,6 +7,12 @@ Challenge a smart AI opponent 🤖 that uses **minimax with alpha-beta pruning**
 
 ---
 
+## 📽️ Demo Video
+
+▶️ **Watch the demo (with voiceover by team member):**  
+[![Watch Demo Video](https://img.shields.io/badge/Click%20to%20Watch-Demo%20Video-blue?logo=youtube)](https://drive.google.com/file/d/1WYAcRguT41h6WAzvD5Z91zI5adUUnori/view?usp=drive_link)
+
+
 ## 🚀 Features
 
 - 💣 **Explosive Pieces**: Each player starts with 3 explosive pieces that can detonate a 3x3 grid with a **300ms green circle animation**.
